@@ -4,7 +4,7 @@ I started my PhD with no knowledge of bioinformatics. However, I learnt some ver
 
 This repository will be updated constantly (or that's the intention hehe).
 
-<font size="5"><i><b>Function 1</b>: rename</i></font>
+<i><b>Function 1</b>: rename</i>
 ````
 rename  's/-/_/' *.fna 
 ````
